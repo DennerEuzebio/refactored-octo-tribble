@@ -12,7 +12,7 @@ public class App
     }
     
     static String getSaudacao() {
-    	return "Olá, mundo";
+    	return "alá, mundo";
     }
     
     
